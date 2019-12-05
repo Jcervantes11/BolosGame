@@ -1,0 +1,11 @@
+C:\Users\jcerv\source\repos\BolosGame\BolosGame\bin\Debug\netcoreapp3.0\BolosGame.exe
+C:\Users\jcerv\source\repos\BolosGame\BolosGame\bin\Debug\netcoreapp3.0\BolosGame.deps.json
+C:\Users\jcerv\source\repos\BolosGame\BolosGame\bin\Debug\netcoreapp3.0\BolosGame.runtimeconfig.json
+C:\Users\jcerv\source\repos\BolosGame\BolosGame\bin\Debug\netcoreapp3.0\BolosGame.runtimeconfig.dev.json
+C:\Users\jcerv\source\repos\BolosGame\BolosGame\bin\Debug\netcoreapp3.0\BolosGame.dll
+C:\Users\jcerv\source\repos\BolosGame\BolosGame\bin\Debug\netcoreapp3.0\BolosGame.pdb
+C:\Users\jcerv\source\repos\BolosGame\BolosGame\obj\Debug\netcoreapp3.0\BolosGame.csprojAssemblyReference.cache
+C:\Users\jcerv\source\repos\BolosGame\BolosGame\obj\Debug\netcoreapp3.0\BolosGame.AssemblyInfoInputs.cache
+C:\Users\jcerv\source\repos\BolosGame\BolosGame\obj\Debug\netcoreapp3.0\BolosGame.AssemblyInfo.cs
+C:\Users\jcerv\source\repos\BolosGame\BolosGame\obj\Debug\netcoreapp3.0\BolosGame.dll
+C:\Users\jcerv\source\repos\BolosGame\BolosGame\obj\Debug\netcoreapp3.0\BolosGame.pdb
